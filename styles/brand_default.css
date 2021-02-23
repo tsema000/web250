@@ -1,0 +1,203 @@
+body {
+	font-family: 'Philosopher', sans-serif;
+	font-size: 1.1em;
+	color: black;
+	background-image: url('http://students.cpcc.edu/~Tsema000/web250/images/body_backround%20image.jpg');
+	height: 50px;
+	min-width:350px;
+	width:100%;
+
+}
+
+
+
+main {
+	
+	display:inline-block;
+	margin: 20px 0 20px 200px;
+	min-height: 530px;
+	height: auto;
+	position: relative;
+	padding: 0 30px;
+	
+}
+
+
+
+
+header{
+	border-bottom: 1px solid #000000;
+	
+	display: inline-block;
+	height: 200px;
+	width: 1500px;
+	position: relative;
+	background-position: 0 5%;
+	background-size: 100%;
+	background-color: white;
+    margin: 20px auto 20px auto;
+	text-align: center;
+}
+
+.text-box 
+{
+  width: 100%;
+  padding-bottom: 70px;
+  word-break: break-all;
+}
+
+#introduction_form {
+    width: 105%;
+}
+
+#introduction_form div label {
+    font-weight: bold;
+}
+
+
+ h1, h2{
+	
+	 color : black;
+	text-align: center;
+	font-family: 'Georgia', Helvetica;
+	font-weight: bold;
+}
+
+h3, h4, h5 {
+        color : black;
+	text-align: center;
+	font-family: 'Mogra', cursive;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 1.5em;
+	margin-top: 10px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+div.figure {
+
+ 
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  
+}
+
+.logo {
+	margin-left: 0px;
+	margin-bottom: 20px;
+	
+	position: absolute;
+	z-index: 11;
+}
+
+
+
+.palette {
+	display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.colors figure {
+	float: left;
+	width: 130px;
+     }
+
+.color {
+	display: inline-block;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	border: 5px solid white;
+	margin: 10px 0;
+}
+
+
+
+
+.orange
+{
+	background-color: rgba(255, 255, 255, 0.014);
+}
+
+.gray
+{
+	background-color: gray;
+}
+
+.black
+{
+	background-color: black;
+}
+.steelblue
+{
+	background-color: steelblue;
+}
+
+
+
+.topnav {
+    
+     overflow : hidden;
+    text-align: center;
+	
+}
+.topnav a {
+     display : inline-block;
+     color : black;
+     text-align : center;
+     padding : 20px 20px;
+     text-decoration : none;
+     font-size : 17px;
+}
+.topnav a:hover {
+    background-color : black;
+    color : white;
+    text-align : center;
+         }
+.topnav a:active {
+         background-color : black;
+         color : red;
+        text-align : center;}
+.bottomnav{
+        
+	overflow: hidden;
+        text-align: center;
+
+}
+
+.bottomnav a{
+     display : inline-block;
+     color : black;
+     text-align : center;
+    padding : 14px 16px;
+    text-decoration : none;
+    font-size : 17px;
+}
+
+
+.bottomnav a:hover{
+	background-color:black;
+	color: white;
+        text-align: center;
+}
+
+.bottomnav a:active {
+         background-color : black;
+         color : red;
+        text-align : center;
+      }
+
+footer {
+ text-align : center;
+ 
+}
