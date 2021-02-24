@@ -2,7 +2,7 @@ body {
 	font-family: 'Philosopher', sans-serif;
 	font-size: 1.1em;
 	color: black;
-	background-image: url("images/body_backround%20image.jpg");
+	background-image: url('images/body_backround%20image.jpg');
 	height: 50px;
 	min-width:350px;
 	width:100%;
@@ -126,7 +126,7 @@ div.figure {
 
 .orange
 {
-	background-color: rgba(255, 255, 255, 0.014);
+	background-color: orange;
 }
 
 .gray
