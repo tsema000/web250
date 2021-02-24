@@ -2,7 +2,7 @@ body {
 	font-family: 'Philosopher', sans-serif;
 	font-size: 1.1em;
 	color: black;
-	background-image: url('https://github.com/tsema000/web250/blob/master/images/body_backround%20image.jpg');
+	background-image: url(images/body_backround%20image.jpg');
 	height: 50px;
 	min-width:350px;
 	width:100%;
